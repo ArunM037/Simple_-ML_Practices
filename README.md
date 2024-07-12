@@ -21,9 +21,6 @@ This repository is intended to help you practice basic machine learning concepts
    git clone https://github.com/ArunM037/Simple_-ML_Practices.git
    cd ml-basics-practice
 
-   # ML Basics and Python Practice
-
-
 ### Additional Notes:
 
 1. **requirements.txt File:**
@@ -35,12 +32,12 @@ This repository is intended to help you practice basic machine learning concepts
    seaborn
    scikit-learn
 ## Resources
--[Python Official Documentation]
--[NumPy Documentation]
--[Pandas Documentation]
--[Matplotlib Documentation]
--[Seaborn Documentation]
--[Scikit-Learn Documentation]
+- [Python Official Documentation]
+- [NumPy Documentation]
+- [Pandas Documentation]
+- [Matplotlib Documentation]
+- [Seaborn Documentation]
+- [Scikit-Learn Documentation]
 
 **Happy Learning** 
 
