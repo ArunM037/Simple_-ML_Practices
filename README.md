@@ -19,7 +19,7 @@ This repository is intended to help you practice basic machine learning concepts
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ArunM037/Simple_ML_Practices.git
-   cd Simple_ML_Practices.git
+   cd Simple_ML_Practices
 
 ### Additional Notes:
 
