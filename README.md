@@ -32,12 +32,12 @@ This repository is intended to help you practice basic machine learning concepts
    seaborn
    scikit-learn
 ## Resources
-- [Python Official Documentation]
-- [NumPy Documentation]
-- [Pandas Documentation]
-- [Matplotlib Documentation]
-- [Seaborn Documentation]
-- [Scikit-Learn Documentation]
+- [Python Official Documentation](#Python0fficialDocumentation)
+- [NumPy Documentation](#NumPyDocumentation)
+- [Pandas Documentation](#PandasDocumentation)
+- [Matplotlib Documentation](#MatplotlibDocumentation)
+- [Seaborn Documentation](#SeabornDocumentation)
+- [Scikit-Learn Documentation](#Scikit-LearnDocumentation)
 
 **Happy Learning** 
 
